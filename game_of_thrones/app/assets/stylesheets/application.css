@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+ @font-face {
+   font-family: "thrones";
+   src: font-url('game_of_thrones.ttf') format("truetype");
+ }
+
+ img {
+   width: 290px;
+   height: 300px;
+ }
